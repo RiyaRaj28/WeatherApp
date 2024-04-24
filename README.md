@@ -37,8 +37,6 @@ Displays weather information for a particular location.
 
 - **Node.js**: Server-side JavaScript runtime environment.
 - **Express.js**: Web application framework for Node.js.
-- **Mongoose**: Object Data Modeling (ODM) library for MongoDB and Node.js.
-- **MongoDB**: NoSQL database program.
 - **HTML**: Standard markup language for creating web pages.
 - **CSS**: Style sheet language used for describing the presentation of a document written in HTML.
 - **JavaScript**: Programming language that enables interactive web pages.
