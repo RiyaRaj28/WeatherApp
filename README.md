@@ -1,6 +1,6 @@
 # WeatherApp
 
-This is a weather website project that provides real-time weather information for a specific location. It uses Node.js, Express.js, Mongoose, and MongoDB for the backend, and HTML, CSS, and JavaScript for the frontend.
+This is a weather website project that provides real-time weather information for a specific location. It uses Node.js, Express.js for the backend, and HTML, CSS, and JavaScript for the frontend.
 
 ## Features
 
