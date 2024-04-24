@@ -1,4 +1,4 @@
-# Weather Website
+# WeatherApp
 
 This is a weather website project that provides real-time weather information for a specific location. It uses Node.js, Express.js, Mongoose, and MongoDB for the backend, and HTML, CSS, and JavaScript for the frontend.
 
@@ -13,7 +13,7 @@ This is a weather website project that provides real-time weather information fo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-website.git
+   git clone https://github.com/RiyaRaj28/WeatherApp.git
 
 2. Install dependencies:
    ```bash
