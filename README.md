@@ -19,11 +19,16 @@ This is a weather website project that provides real-time weather information fo
    ```bash
    npm install
 
-3. Run the server:
+3. Set up environment variables:Create a .env file in the root directory and add the following:
+   ```bash
+   PORT=8000
+   API_KEY=your_openweathermap_api_key
+   
+4. Run the server:
    ```bash
    npm start
 
-4. Access the website:Open your browser and navigate to http://localhost:8000.
+5. Access the website:Open your browser and navigate to http://localhost:8000.
 
 ## Usage
 Displays weather information for a particular location.
